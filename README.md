@@ -1,6 +1,9 @@
-<!-- Your Name and Introduction -->
-<h1 align="center">Hi there! I'm Mostafa Magdy Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
-                                                                                                                                               
+<div align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></p>
+<h1>Hi there! I'm Mostafa Magdy Hassan</h1>
+</div>
+
+
 
 <h3 align="center">Student of Artificial Intelligence | Aspiring Innovator | Lifelong Learner</h3>
 
