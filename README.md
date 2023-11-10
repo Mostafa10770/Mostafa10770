@@ -1,24 +1,36 @@
-<div align=center>
-    </div>
-
 
 
 
 <div align="center">
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></p> -->
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Banner" width=300>
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mostafa+Magdy+%F0%9F%91%8B;ML+and+DL+Developer;Passionate+Data+Scientist" alt="Headline" />
+
+<p> Passionate software engineer with a keen eye for detail, diving into the exciting realms of Data Science, Machine Learning, and Deep Learning!✨</p>
+
 <hr>
 </div>
 
 
+<br>
 
-<h3 align="center">Student of Artificial Intelligence | Aspiring Innovator | Lifelong Learner</h3>
+
+<p align="center">
+    
+</p>
+<h2 align="center">Connect with me: </h2>
 
 <!-- Contact Information -->
 <p align="center">
   📫 How to reach me: <a href="mailto:Mustafa.10770@stemredse.moe.edu.eg">Mustafa.10770@stemredse.moe.edu.eg</a>
 </p>
 
+<p align="center">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+</p>
 <!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/mostafa-magdy-hassan-1abbb424a/" target="_blank">
@@ -29,10 +41,6 @@
   </a>
 </p>
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Banner" width=220>
-</p>
 
 <!-- Technologies -->
 <h2 align="center">Technologies I Love</h2>
@@ -60,4 +68,4 @@
 
 </div>
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Mostafa10770/Mostafa10770/blob/main/Mostafa.svg">
