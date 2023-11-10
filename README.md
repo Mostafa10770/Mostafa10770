@@ -7,7 +7,7 @@
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Banner" width=300>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mostafa+Magdy+%F0%9F%91%8B;ML+and+DL+Developer;Passionate+Data+Scientist" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mostafa+Magdy+%F0%9F%91%8B;ML+and+DL+Developer;Passionate+Robotics+Developer" alt="Headline" />
 
 <p> Passionate software engineer with a keen eye for detail, diving into the exciting realms of Data Science, Machine Learning, and Deep Learning!✨</p>
 
