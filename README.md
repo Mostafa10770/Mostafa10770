@@ -1,6 +1,13 @@
+<div align=center>
+    </div>
+
+
+
+
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></p>
-<h1>Hi there! I'm Mostafa Magdy Hassan</h1>
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></p> -->
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mostafa+Magdy+%F0%9F%91%8B;ML+and+DL+Developer;Passionate+Data+Scientist" alt="Headline" />
+<hr>
 </div>
 
 
@@ -52,3 +59,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa10770&layout=compact&theme=dark" alt="Top Languages" />
 
 </div>
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
