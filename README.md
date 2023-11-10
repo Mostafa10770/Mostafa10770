@@ -59,13 +59,15 @@
    <img src="https://github-readme-stats.vercel.app/api?username=mostafa10770&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa10770&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>-->
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa10770&layout=compact&theme=dark" alt="Top Languages" />
-
 </div>
 
+
+[![Mostafa's github activity graph for the year](https://github-readme-activity-graph.vercel.app/graph?username=mostafa10770&custom_title=Mostafa's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<br>
+<hr>
+<br>
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Mostafa10770/Mostafa10770/blob/main/Mostafa.svg">
