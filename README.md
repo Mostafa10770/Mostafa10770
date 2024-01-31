@@ -1,4 +1,5 @@
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>
+![Profile views](https://komarev.com/ghpvc/?username=Mostafa10770&color=blue)
 
 
 <div align="center">
