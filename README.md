@@ -37,7 +37,7 @@
   <a href="https://linkedin.com/in/mostafa-magdy-hassan-1abbb424a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/1zL4LntxLqAR6oyiQft3iXrzUM-93W-QB/view?usp=sharing" target="_blank">
+  <a href="https://bit.ly/3KGfTs2" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
