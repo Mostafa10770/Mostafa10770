@@ -26,7 +26,7 @@
 
 <!-- Contact Information -->
 <p align="center">
-  📫 How to reach me: <a href="mailto:Mustafa.10770@stemredse.moe.edu.eg">Mustafa.10770@stemredse.moe.edu.eg</a>
+  📫 How to reach me: <a href="mailto:Mustafamagdy2002@gmail.com">Mustafamagdy2002@gmail.com</a>
 </p>
 
 <p align="center">
