@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Mostafa Magdy — AI Engineer · GenAI &amp; Agentic Systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16161e"/>
+      <stop offset="1" stop-color="#24283b"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#414868" opacity="0.6"/>
+    </pattern>
+    <clipPath id="card"><rect width="1000" height="280" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .f{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .up{animation:up .8s ease-out backwards}
+    @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    .pulse{animation:pulse 1.8s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+    .sig{fill:none;stroke-width:2.5;stroke-linecap:round;stroke-dasharray:8 190;animation:sig 2.6s linear infinite}
+    @keyframes sig{from{stroke-dashoffset:198}to{stroke-dashoffset:0}}
+    .node{animation:node 3s ease-in-out infinite}
+    @keyframes node{0%,100%{opacity:1}50%{opacity:.55}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#dots)"/>
+    <circle cx="820" cy="140" r="190" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="18" fill="none" stroke="#414868"/>
+
+  <!-- Neural network -->
+  <g stroke="#414868" stroke-width="1.2">
+    <line x1="700" y1="85" x2="810" y2="60"/><line x1="700" y1="85" x2="810" y2="115"/><line x1="700" y1="85" x2="810" y2="170"/><line x1="700" y1="85" x2="810" y2="225"/>
+    <line x1="700" y1="140" x2="810" y2="60"/><line x1="700" y1="140" x2="810" y2="115"/><line x1="700" y1="140" x2="810" y2="170"/><line x1="700" y1="140" x2="810" y2="225"/>
+    <line x1="700" y1="195" x2="810" y2="60"/><line x1="700" y1="195" x2="810" y2="115"/><line x1="700" y1="195" x2="810" y2="170"/><line x1="700" y1="195" x2="810" y2="225"/>
+    <line x1="810" y1="60" x2="920" y2="110"/><line x1="810" y1="115" x2="920" y2="110"/><line x1="810" y1="170" x2="920" y2="110"/><line x1="810" y1="225" x2="920" y2="110"/>
+    <line x1="810" y1="60" x2="920" y2="170"/><line x1="810" y1="115" x2="920" y2="170"/><line x1="810" y1="170" x2="920" y2="170"/><line x1="810" y1="225" x2="920" y2="170"/>
+  </g>
+  <g>
+    <path class="sig" stroke="#7aa2f7" d="M700 85 L810 115 L920 170"/>
+    <path class="sig" stroke="#bb9af7" style="animation-delay:.6s" d="M700 140 L810 60 L920 110"/>
+    <path class="sig" stroke="#7dcfff" style="animation-delay:1.2s" d="M700 195 L810 170 L920 110"/>
+    <path class="sig" stroke="#9ece6a" style="animation-delay:1.8s" d="M700 140 L810 225 L920 170"/>
+    <path class="sig" stroke="#bb9af7" style="animation-delay:.9s" d="M700 85 L810 170 L920 170"/>
+    <path class="sig" stroke="#7aa2f7" style="animation-delay:2.1s" d="M700 195 L810 115 L920 110"/>
+  </g>
+  <g fill="#1a1b27" stroke-width="2.5">
+    <circle class="node" cx="700" cy="85" r="8" stroke="#7aa2f7"/>
+    <circle class="node" cx="700" cy="140" r="8" stroke="#7aa2f7" style="animation-delay:.4s"/>
+    <circle class="node" cx="700" cy="195" r="8" stroke="#7aa2f7" style="animation-delay:.8s"/>
+    <circle class="node" cx="810" cy="60" r="8" stroke="#bb9af7" style="animation-delay:.2s"/>
+    <circle class="node" cx="810" cy="115" r="8" stroke="#bb9af7" style="animation-delay:.6s"/>
+    <circle class="node" cx="810" cy="170" r="8" stroke="#bb9af7" style="animation-delay:1s"/>
+    <circle class="node" cx="810" cy="225" r="8" stroke="#bb9af7" style="animation-delay:1.4s"/>
+    <circle class="node" cx="920" cy="110" r="9" stroke="#7dcfff" style="animation-delay:.3s"/>
+    <circle class="node" cx="920" cy="170" r="9" stroke="#7dcfff" style="animation-delay:.9s"/>
+  </g>
+
+  <!-- Text -->
+  <text class="f up" x="50" y="68" font-size="19" fill="#a9b1d6">Hi there 👋, I'm</text>
+  <text class="f up" x="48" y="128" font-size="58" font-weight="800" fill="url(#name)" style="animation-delay:.15s">Mostafa Magdy</text>
+  <text class="f up" x="50" y="168" font-size="21" fill="#c0caf5" style="animation-delay:.3s">AI Engineer · GenAI &amp; Agentic Systems</text>
+
+  <g class="f up" font-size="14" fill="#c0caf5" style="animation-delay:.45s">
+    <rect x="50" y="190" width="118" height="30" rx="15" fill="#1a1b27" stroke="#7aa2f7"/>
+    <text x="109" y="210" text-anchor="middle">🏢 EVA Group</text>
+    <rect x="178" y="190" width="186" height="30" rx="15" fill="#1a1b27" stroke="#bb9af7"/>
+    <text x="271" y="210" text-anchor="middle">🎓 AAST Valedictorian</text>
+    <rect x="374" y="190" width="152" height="30" rx="15" fill="#1a1b27" stroke="#e0af68"/>
+    <text x="450" y="210" text-anchor="middle">🥇 ISEF 1st Place</text>
+    <rect x="536" y="190" width="128" height="30" rx="15" fill="#1a1b27" stroke="#9ece6a"/>
+    <text x="600" y="210" text-anchor="middle">📍 Giza, Egypt</text>
+  </g>
+
+  <g class="up" style="animation-delay:.6s">
+    <circle class="pulse" cx="57" cy="250" r="5" fill="#9ece6a"/>
+    <text class="m" x="72" y="255" font-size="14" fill="#9ece6a">shipping production GenAI used by 900+ people</text>
+  </g>
+</svg>

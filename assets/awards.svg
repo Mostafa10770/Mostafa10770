@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-label="Awards: ISEF 1st Place 2019, AAST Valedictorian 2025, RoboBoat AI Team Lead 2023, RoboCup@Home 3rd Place 2024">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd76a"/><stop offset="1" stop-color="#e0af68"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .f{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .c{animation:pop .6s cubic-bezier(.2,1.4,.4,1) backwards}
+    @keyframes pop{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+    .card{fill:#1a1b27;stroke:#414868}
+    .i{font-size:38px}
+    .t{font-size:18px;font-weight:800}
+    .s{font-size:13px;fill:#a9b1d6}
+    .y{font-size:12px;font-weight:700}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g class="f" text-anchor="middle">
+    <g class="c">
+      <rect class="card" x="0.5" y="0.5" width="234" height="189" rx="14" stroke="url(#gold)" stroke-width="1.5"/>
+      <text class="i" x="117.5" y="52">🥇</text>
+      <text class="t" x="117.5" y="88" fill="url(#gold)">ISEF 1st Place</text>
+      <text class="s" x="117.5" y="112">Int'l Science &amp; Engineering</text>
+      <text class="s" x="117.5" y="130">Fair · Arizona, USA</text>
+      <rect x="87.5" y="150" width="60" height="22" rx="11" fill="#e0af68" fill-opacity=".15" stroke="#e0af68"/>
+      <text class="y" x="117.5" y="165" fill="#e0af68">2019</text>
+    </g>
+    <g class="c" style="animation-delay:.15s">
+      <rect class="card" x="255.5" y="0.5" width="234" height="189" rx="14"/>
+      <text class="i" x="372.5" y="52">🎓</text>
+      <text class="t" x="372.5" y="88" fill="#bb9af7">Valedictorian</text>
+      <text class="s" x="372.5" y="112">B.Sc. AI · AAST · GPA 3.74</text>
+      <text class="s" x="372.5" y="130">Ranked 1st of 100+</text>
+      <rect x="342.5" y="150" width="60" height="22" rx="11" fill="#bb9af7" fill-opacity=".15" stroke="#bb9af7"/>
+      <text class="y" x="372.5" y="165" fill="#bb9af7">2025</text>
+    </g>
+    <g class="c" style="animation-delay:.3s">
+      <rect class="card" x="510.5" y="0.5" width="234" height="189" rx="14"/>
+      <text class="i" x="627.5" y="52">🚤</text>
+      <text class="t" x="627.5" y="88" fill="#7dcfff">RoboBoat</text>
+      <text class="s" x="627.5" y="112">AI Team Lead</text>
+      <text class="s" x="627.5" y="130">15th globally · 2nd in Egypt</text>
+      <rect x="597.5" y="150" width="60" height="22" rx="11" fill="#7dcfff" fill-opacity=".15" stroke="#7dcfff"/>
+      <text class="y" x="627.5" y="165" fill="#7dcfff">2023</text>
+    </g>
+    <g class="c" style="animation-delay:.45s">
+      <rect class="card" x="765.5" y="0.5" width="234" height="189" rx="14"/>
+      <text class="i" x="882.5" y="52">🤖</text>
+      <text class="t" x="882.5" y="88" fill="#9ece6a">RoboCup@Home</text>
+      <text class="s" x="882.5" y="112">3rd Place · National Home</text>
+      <text class="s" x="882.5" y="130">Assistant Robot Competition</text>
+      <rect x="852.5" y="150" width="60" height="22" rx="11" fill="#9ece6a" fill-opacity=".15" stroke="#9ece6a"/>
+      <text class="y" x="882.5" y="165" fill="#9ece6a">2024</text>
+    </g>
+  </g>
+</svg>

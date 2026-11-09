@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="whoami: Mostafa Magdy Hassan, AI Engineer at EVA Group">
+  <style>
+    .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:15px}
+    .l{animation:show .35s ease-out backwards}
+    @keyframes show{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:translateX(0)}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .p{fill:#9ece6a}.d{fill:#7dcfff}.o{fill:#c0caf5}.k{fill:#565f89}.b{fill:#7aa2f7;font-weight:bold}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <rect x="0.5" y="0.5" width="999" height="329" rx="12" fill="#1a1b27" stroke="#414868"/>
+  <path d="M12.5 0.5 H987.5 A12 12 0 0 1 999.5 12.5 V38 H0.5 V12.5 A12 12 0 0 1 12.5 0.5 Z" fill="#24283b" stroke="#414868"/>
+  <circle cx="24" cy="19" r="6.5" fill="#f7768e"/>
+  <circle cx="46" cy="19" r="6.5" fill="#e0af68"/>
+  <circle cx="68" cy="19" r="6.5" fill="#9ece6a"/>
+  <text class="m k" x="500" y="24" text-anchor="middle" font-size="13">mostafa@eva-group: ~</text>
+
+  <g class="m">
+    <text class="l" x="24" y="72"><tspan class="p">➜</tspan> <tspan class="d">~</tspan> <tspan class="o">whoami</tspan></text>
+    <text class="l o" x="44" y="98" style="animation-delay:.5s">Mostafa Magdy Hassan — <tspan class="b">AI Engineer @ EVA Group</tspan>, leading a team of engineers</text>
+
+    <text class="l" x="24" y="134" style="animation-delay:1.1s"><tspan class="p">➜</tspan> <tspan class="d">~</tspan> <tspan class="o">cat focus.txt</tspan></text>
+    <text class="l o" x="44" y="160" style="animation-delay:1.6s">RAG · Text-to-SQL · LangGraph agents · Document AI · Forecasting · Computer Vision</text>
+
+    <text class="l" x="24" y="196" style="animation-delay:2.2s"><tspan class="p">➜</tspan> <tspan class="d">~</tspan> <tspan class="o">cat impact.log</tspan></text>
+    <text class="l o" x="44" y="222" style="animation-delay:2.7s"><tspan class="b">900+</tspan> employees across <tspan class="b">20+</tspan> departments use the RAG assistant I architected</text>
+
+    <text class="l" x="24" y="258" style="animation-delay:3.3s"><tspan class="p">➜</tspan> <tspan class="d">~</tspan> <tspan class="o">ls achievements/</tspan></text>
+    <text class="l" x="44" y="284" style="animation-delay:3.8s" fill="#7aa2f7" font-weight="bold">ISEF_1st_place/   AAST_valedictorian/   RoboBoat_15th_global/   RoboCup_3rd/</text>
+
+    <text class="l" x="24" y="314" style="animation-delay:4.3s"><tspan class="p">➜</tspan> <tspan class="d">~</tspan> <tspan class="o cur">█</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,2 @@
+# Keep private documents (CV contains phone number) out of the public profile repo
+*.pdf

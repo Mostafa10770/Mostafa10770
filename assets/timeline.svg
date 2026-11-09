@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="432" viewBox="0 0 1000 432" role="img" aria-label="Experience: EVA Group, PetroChoice, Corporatica, Obyan">
+  <style>
+    .f{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .e{animation:up .7s ease-out backwards}
+    @keyframes up{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
+    .ring{animation:ring 2s ease-out infinite;transform-origin:40px 40px}
+    @keyframes ring{from{opacity:.9;transform:scale(1)}to{opacity:0;transform:scale(2.4)}}
+    .co{font-size:21px;font-weight:800}
+    .ro{font-size:15px;fill:#a9b1d6}
+    .h{font-size:14px;fill:#c0caf5}
+    .dt{font-size:13px;fill:#787c99}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <rect x="0.5" y="0.5" width="999" height="431" rx="14" fill="#1a1b27" stroke="#414868"/>
+  <line x1="40" y1="40" x2="40" y2="370" stroke="#414868" stroke-width="2" stroke-dasharray="4 5"/>
+
+  <g class="f">
+    <!-- EVA Group -->
+    <g class="e">
+      <circle class="ring" cx="40" cy="40" r="8" fill="none" stroke="#9ece6a" stroke-width="2"/>
+      <circle cx="40" cy="40" r="8" fill="#9ece6a"/>
+      <text class="co" x="70" y="47" fill="#9ece6a">EVA Group</text>
+      <rect x="200" y="31" width="58" height="20" rx="10" fill="#9ece6a" fill-opacity=".15" stroke="#9ece6a"/>
+      <text x="229" y="45" text-anchor="middle" font-size="11" font-weight="700" fill="#9ece6a">NOW</text>
+      <text class="m dt" x="975" y="46" text-anchor="end">Mar 2026 – Present · Giza</text>
+      <text class="ro" x="70" y="71">AI Engineer · leading a team of junior engineers &amp; interns</text>
+      <text class="h" x="70" y="97">▸ Architected <tspan font-weight="700" fill="#7aa2f7">ATRGPT</tspan>, an enterprise RAG assistant (FastAPI · pgvector · OpenAI + Claude) for 900+ employees</text>
+      <text class="h" x="70" y="119">▸ Text-to-SQL on Oracle · LangGraph “Sheet Chat” agents · Document AI · LightGBM forecasting · Whisper call analytics</text>
+    </g>
+
+    <!-- PetroChoice -->
+    <g class="e" style="animation-delay:.25s">
+      <circle cx="40" cy="160" r="7" fill="#1a1b27" stroke="#7aa2f7" stroke-width="2.5"/>
+      <text class="co" x="70" y="167" fill="#7aa2f7">PetroChoice Integrated Services</text>
+      <text class="m dt" x="975" y="166" text-anchor="end">Feb 2025 – Feb 2026 · Giza</text>
+      <text class="ro" x="70" y="191">AI Engineer · led a 3-person AI team</text>
+      <text class="h" x="70" y="217">▸ Agentic RAG (LangGraph + Pinecone) · Bi-LSTM predictive maintenance · YOLOv10 site safety at 98.4% mAP</text>
+    </g>
+
+    <!-- Corporatica -->
+    <g class="e" style="animation-delay:.5s">
+      <circle cx="40" cy="258" r="7" fill="#1a1b27" stroke="#bb9af7" stroke-width="2.5"/>
+      <text class="co" x="70" y="265" fill="#bb9af7">Corporatica</text>
+      <text class="m dt" x="975" y="264" text-anchor="end">Sept 2024 – Jan 2025 · Remote (USA)</text>
+      <text class="ro" x="70" y="289">Data Engineer</text>
+      <text class="h" x="70" y="315">▸ Fine-tuned Llama-3 with QLoRA (+18% accuracy) · GCP ELT pipelines · indexed 1M+ embeddings</text>
+    </g>
+
+    <!-- Obyan -->
+    <g class="e" style="animation-delay:.75s">
+      <circle cx="40" cy="356" r="7" fill="#1a1b27" stroke="#7dcfff" stroke-width="2.5"/>
+      <text class="co" x="70" y="363" fill="#7dcfff">Obyan</text>
+      <text class="m dt" x="975" y="362" text-anchor="end">Jul 2023 – May 2024</text>
+      <text class="ro" x="70" y="387">Software / AI Intern</text>
+      <text class="h" x="70" y="409">▸ Deployed ADAS vision models on edge devices with TensorRT FP16, cutting latency by 20 ms</text>
+    </g>
+  </g>
+</svg>
